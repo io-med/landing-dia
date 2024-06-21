@@ -1,4 +1,4 @@
-- Landint Dia is page with adaptive design for widescreens, tablets, smartphones.
+- Landing Dia is page with adaptive design for widescreens, tablets, smartphones.
 -  Technology stack: HTML, CSS, SASS, BEM methodology
 - [DEMO LINK](https://io-med.github.io/landing-dia/) 
 - [Figma design](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)?node-id=9138%3A35)
